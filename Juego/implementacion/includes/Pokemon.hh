@@ -1,7 +1,7 @@
 #define __POKEMON.H_
 #ifndef __POKEMON.H_
 
-#include <Pokedex.h>
+#include <Pokedex.hh>
 
 
 class pokemon {
