@@ -1,1 +1,1 @@
-Autoclicker: Script "tonto" en Python para generar clicks infinitos.
+Autoclicker: Script en Python para generar clicks infinitos.
